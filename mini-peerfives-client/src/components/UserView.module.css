@@ -1,0 +1,17 @@
+.container {
+    padding: 20px;
+}
+.formGroup {
+    margin-bottom: 20px;
+}
+.formGroup label {
+    display: block;
+    margin-bottom: 5px;
+}
+.formGroup span {
+    display: block;
+    margin-bottom: 5px;
+}
+.buttons button {
+    margin-right: 10px;
+}
